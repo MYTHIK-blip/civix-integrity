@@ -1,0 +1,3 @@
+# AGENTS.md — CIVIX::INTEGRITY Genesis Scroll
+
+## Mission: Scaffold the CIVIX scrollware structure...
