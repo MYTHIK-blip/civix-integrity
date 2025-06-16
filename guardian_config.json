@@ -1,0 +1,11 @@
+{
+  "guardians": {
+    "CIVIX": "central oversight",
+    "PACT": "civic contracts",
+    "CARE": "community well-being",
+    "RITE": "ritual observation"
+  },
+  "defaultExpiryDays": 365,
+  "overrideKeywords": ["override", "emergency", "urgent"],
+  "jurisdictions": ["Tāmaki Makaurau", "Cloudless North"]
+}

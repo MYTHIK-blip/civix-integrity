@@ -1,6 +1,13 @@
 {
-  "ocap": true,
-  "care": true,
-  "guardian": "unset",
-  "expiry": null
+  "modules": ["PACT", "TASK", "RITE", "CARE"],
+  "filetypes": [".scroll", ".md", ".ritual"],
+  "licensing": "OCAP/CARE",
+  "toneActions": {
+    "sacred": "initiate_rite",
+    "urgent": "expedite_task",
+    "gentle": "provide_guidance",
+    "grief": "offer_support",
+    "adversarial": "flag_review",
+    "ceremonial": "record_ritual"
+  }
 }

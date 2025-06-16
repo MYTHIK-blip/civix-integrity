@@ -1,1 +1,7 @@
-// Placeholder for sample_workflow.json
+{
+  "name": "sample-workflow",
+  "steps": [
+    {"id": "init", "action": "start"},
+    {"id": "complete", "action": "end"}
+  ]
+}
