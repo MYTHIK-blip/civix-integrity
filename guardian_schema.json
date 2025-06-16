@@ -1,0 +1,10 @@
+{
+  "type": "object",
+  "properties": {
+    "guardian": {"type": "string"},
+    "expires": {"type": "string"},
+    "jurisdiction": {"type": "string"},
+    "tone": {"type": "string"}
+  },
+  "required": ["guardian", "expires", "jurisdiction", "tone"]
+}

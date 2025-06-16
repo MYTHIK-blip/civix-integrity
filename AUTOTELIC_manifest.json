@@ -1,0 +1,11 @@
+{
+  "agent": "AUTOTELIC",
+  "triggers": [
+    "repeated tone with no responding agent",
+    "guardian silence across multiple scrolls",
+    "ritual overuse of one scroll type"
+  ],
+  "selfGrowth": {
+    "derivativeAgents": ["CARE+", "PACT++", "DRFT-mirror"]
+  }
+}
